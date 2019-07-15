@@ -33,9 +33,4 @@ $ ruby app.rb
 
 Navigate to `localhost:4567` in browser.
 
-License
--------
 
-GNU GPL v2. Copyright 2015 **Epicodus**
-
-***Small change to README added to bookmark completion of one-to-many relationship between employees and projects***
